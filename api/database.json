@@ -1,0 +1,32 @@
+{
+  "complaints": [
+    {
+      "id": 1,
+      "description": "Jó",
+      "complaint": "Sebők Zsolt",
+      "product": "Számítógép",
+      "type": "Javított"
+    },
+    {
+      "id": 2,
+      "description": "Rossz",
+      "complaint": "Ferenc Pál",
+      "product": "Telefon",
+      "type": "Javított"
+    },
+    {
+      "id": 3,
+      "description": "Jó",
+      "complaint": "Nagy Gergő",
+      "product": "Fülhallgató",
+      "type": "Nincs kész"
+    },
+    {
+      "id": 4,
+      "description": "Jó ",
+      "complaint": "Juhász Zsombor",
+      "product": "Laptop",
+      "type": "Nincs kész"
+    }
+  ]
+}
