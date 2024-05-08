@@ -1,4 +1,4 @@
-// * File: index.html
+// * File: app.js
 // * Author: Fülöp Ervin
 // * Copyright: 2024, Fülöp Ervin
 // * Group: I-2-N
@@ -8,6 +8,7 @@
 
 const doc = {
     complainBody: document.querySelector("#complainBody")
+    
 }
 
 
